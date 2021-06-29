@@ -11,9 +11,9 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 - [vpncn/vpncn.github.io: 2021中国翻墙软件VPN推荐以及避坑指南，对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙VPN梯子下载推荐，稳定好用。](https://github.com/vpncn/vpncn.github.io)。
 - [vpnforchina/vpnforchina.github.io: 2021中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。](https://github.com/vpnforchina/vpnforchina.github.io)。
 
-## 法一 获取软件
+## 法1 获取软件
 
-自由门、无界、ssr，这四个均有PC和安卓。
+自由门、无界、SSR 和 V2ray 这四个均有 PC 和 安卓 版本。
 
 - [Share-SSR-V2ray/tools.md at master · selierlin/Share-SSR-V2ray (github.com)](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)——比较全。
 
@@ -26,7 +26,7 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 自由门下载一次后便可以在软件内自己下载更新，所以只需下载一次。
 
-看视频，慢速下载（100kb/s以内）就用自由门、无界即可。
+看视频，慢速下载（100kb/s以内）就用自由门或无界即可。
 
 ### SSR 下载
 
