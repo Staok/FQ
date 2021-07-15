@@ -124,6 +124,10 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 
   上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\guides.wiki\`。
 
+- [52bp/52bp.github.io: 分享免费SSR|V2ray|Trojan 免费、优质节点机场大全导航推荐，记得点击star⭐==不迷路](https://github.com/52bp/52bp.github.io)。
+
+- 
+
 - [tlanyan.me](https://tlanyan.me/vps-merchant-collection/)——一些VPS商家整理，可能需要 FQ。
 
 - [udpsec/awesome-vpn: 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。 (github.com)](https://github.com/udpsec/awesome-vpn)。
@@ -135,6 +139,6 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 - https://coderschool.cn/1853.html。
 - https://ac.scmor.com/。
 - http://scholar.hedasudi.com/【推荐】。
-- https://g.louqunhua.top/【推荐】。
-- http://ac.scmor.com/。
+- https://g.louqunhua.top/。
+- http://ac.scmor.com/【推荐】。
 - https://google987.azurewebsites.net/。
