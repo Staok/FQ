@@ -8,10 +8,17 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 ## 零 总指南
 
+概况了解
+
 - [vpncn/vpncn.github.io: 2021中国翻墙软件VPN推荐以及避坑指南，对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙VPN梯子下载推荐，稳定好用。](https://github.com/vpncn/vpncn.github.io)。
 - [vpnforchina/vpnforchina.github.io: 2021中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。](https://github.com/vpnforchina/vpnforchina.github.io)。
 
-## 法1 获取软件
+具体了解
+
+- [hoochanlon/w3-goto-world: 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库 (github.com)](https://github.com/hoochanlon/w3-goto-world)。
+- [这本书能让你连接互联网 Ⅱ (hoochanlon.github.io)](https://hoochanlon.github.io/fq-book/#/qintro/quickstart)。
+
+## 法1 使用软件
 
 自由门、无界、SSR 和 V2ray 这四个均有 PC 和 安卓 版本。
 
@@ -114,7 +121,14 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 
 上面链接的离线文档路径 `\关于 SS SSR V2Ray 的总介绍\new-pac.wiki\自建v2ray服务器教程.md`。
 
-## 更多其它方法
+## 账号分享+更多链接
+
+账号分享
+
+- [免费ss/ssr/vmess分享 | w3-goto-world (hoochanlon.github.io)](https://hoochanlon.github.io/w3-goto-world/科学上网、暗网、零网/免费ss、ssr、vmess分享/)。
+- [52bp/52bp.github.io: 分享免费SSR|V2ray|Trojan 免费、优质节点机场大全导航推荐，记得点击star⭐==不迷路](https://github.com/52bp/52bp.github.io)。
+
+更多链接
 
 - https://github.com/Alvin9999/new-pac/wiki 备用网址：http://tr1.freeair888.club。
 
@@ -123,10 +137,6 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 - https://github.com/gfw-breaker/guides/wiki。
 
   上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\guides.wiki\`。
-
-- [52bp/52bp.github.io: 分享免费SSR|V2ray|Trojan 免费、优质节点机场大全导航推荐，记得点击star⭐==不迷路](https://github.com/52bp/52bp.github.io)。
-
-- 
 
 - [tlanyan.me](https://tlanyan.me/vps-merchant-collection/)——一些VPS商家整理，可能需要 FQ。
 
