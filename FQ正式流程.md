@@ -1,12 +1,30 @@
 # FQ 正式流程
 
-FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均来自互联网，可能有的会随时挂掉。
+FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均来自互联网，可能有的会随时挂掉。本文为技术、软件的总结，并非新手教程，遇到新名词则自主首选去先了解一下。
 
 以下方法有一些是反动派提供的，它们的言论是开历史倒车，拖全人类走向大团结、大祥和的后腿，刻意制造对立和仇恨（团结友爱不香吗），可悲且可恶，它们就是盲人摸象、井底之蛙和害群之鸟，这样的声音会一直存在，所以请保持住你的理智和独立思考，事实胜于雄辩，不要干出 “49年入国军” 的事（LOL）。
 
 ------
 
+## 最新技术
+
+本节为罗列出日常见到的新的、方便的 VPN 方法，在 下一节 “零 总指南” 开始为本文的原内容（始于 2021.6） 。
+
+### Trojan
+
+- Trojan 可视为 V2Ray 的下一代技术。
+- [Trojan · 科学上网相关知识总结 (crifan.github.io)](https://crifan.github.io/scientific_network_summary/website/trojan/)。
+- [Trojan – V2RaySSR综合网](https://www.v2rayssr.com/tag/trojan)。
+- [新的科学上网方式trojan安装使用记录 (bandwh.com)](https://bandwh.com/kxsw/50.html)。[Trojan – 乐在折腾 (oixxu.com)](https://www.oixxu.com/tag/trojan/)。
+- 长期有效 Trojan 香港节点 [4InternetFreedom/Free-For-Trojan: 每天更新免费翻墙, 科学上网节点 (github.com)](https://github.com/4InternetFreedom/Free-For-Trojan)。
+
 ## 零 总指南
+
+可以试试蓝灯破解版：
+
+- [YoulianBoshi/lantern-vpn: PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用 (github.com)](https://github.com/YoulianBoshi/lantern-vpn) 曾经试过（2020），那时可以。
+- [77595014/lantern: 蓝灯破解 (github.com)](https://github.com/77595014/lantern) 没试过。
+- [JuncoJet/unlimited-landeng-for-win: 无限流量灯，你懂的，我不解释 (github.com)](https://github.com/JuncoJet/unlimited-landeng-for-win) 没试过。
 
 概况了解
 
@@ -65,7 +83,7 @@ SSR 账号太容易被封，以后就不用了。
 
 ### SSR 免费账号
 
-- https://github.com/UmeLabs/node.umelabs.dev。
+- https://github.com/UmeLabs/node.umelabs.dev 每天24:00点前更新免费SS/SSR节点。
 
 - https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7。
 
