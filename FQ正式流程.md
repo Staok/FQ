@@ -6,6 +6,19 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 ------
 
+注，使用 VPN 软件 来 FQ 之前，最好先将电脑内的上网软件（包括杀毒软件）均关闭。
+
+## GFW 和 FQ 原理
+
+[防火墙/GFW是什么？为什么会有墙？墙的真正用意是什么？你为什么要搞清楚翻墙的原理？【硬核翻墙系列】第一期 - YouTube](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)。这是一个系列视频，讲的比较客观和好懂，FQ 作为 现代大陆一部分网民感兴趣和掌握的一个常识、可以拥有的技能，应该 首先 去看看这个讲解 原理和技术的视频。
+
+## 机场收集
+
+*p.s 以下的尚未试过，只是罗列，不保证真假。*
+
+1. [翻墙最快最稳妥 亚洲区最佳 VPN | auVPN (ausososo.space)](https://ausososo.space/zh-CN)。
+2. 
+
 ## 最新技术
 
 本节为罗列出日常见到的新的、方便的 VPN 方法，在 下一节 “零 总指南” 开始为本文的原内容（始于 2021.6） 。
@@ -72,6 +85,8 @@ PC [Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN/relea
 上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\fanqiang\`。
 
 ## 法2 ShadowsockR
+
+> 我们已退役 SS 、 SSR 协议。 从 2019 年以来，GFW 已能够主动探查，识别，并封锁运行此类服务的 IP。
 
 SSR 账号太容易被封，以后就不用了。
 
