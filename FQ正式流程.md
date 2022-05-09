@@ -6,7 +6,11 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 ------
 
-注，使用 VPN 软件 来 FQ 之前，最好先将电脑内的上网软件（包括杀毒软件）均关闭。
+注：
+
+- 使用 VPN 软件 来 FQ 之前，最好先将电脑内的上网软件（包括杀毒软件）均关闭。
+
+- > 我们已退役 SS 、 SSR 协议。 从 2019 年以来，GFW 已能够主动探查，识别，并封锁运行此类服务的 IP。
 
 ## GFW 和 FQ 原理
 
@@ -16,38 +20,25 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 *p.s 以下的尚未试过，只是罗列，不保证真假。*
 
+p.s 不想费事自己弄的，花钱买个省心，但是！！！要选择靠谱的、真实的，有一些是骗钱的。不要再选择 SS/SSR 账号的套餐！不要！
+
 1. [翻墙最快最稳妥 亚洲区最佳 VPN | auVPN (ausososo.space)](https://ausososo.space/zh-CN)。
-2. 
-
-## 最新技术
-
-本节为罗列出日常见到的新的、方便的 VPN 方法，在 下一节 “零 总指南” 开始为本文的原内容（始于 2021.6） 。
-
-### Trojan
-
-- Trojan 可视为 V2Ray 的下一代技术。
-- [Trojan · 科学上网相关知识总结 (crifan.github.io)](https://crifan.github.io/scientific_network_summary/website/trojan/)。
-- [Trojan – V2RaySSR综合网](https://www.v2rayssr.com/tag/trojan)。
-- [新的科学上网方式trojan安装使用记录 (bandwh.com)](https://bandwh.com/kxsw/50.html)。[Trojan – 乐在折腾 (oixxu.com)](https://www.oixxu.com/tag/trojan/)。
-- 长期有效 Trojan 香港节点 [4InternetFreedom/Free-For-Trojan: 每天更新免费翻墙, 科学上网节点 (github.com)](https://github.com/4InternetFreedom/Free-For-Trojan)。
+2. etc.
 
 ## 零 总指南
 
-可以试试蓝灯破解版：
+*p.s 始于 2021.6。*
 
-- [YoulianBoshi/lantern-vpn: PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用 (github.com)](https://github.com/YoulianBoshi/lantern-vpn) 曾经试过（2020），那时可以。
-- [77595014/lantern: 蓝灯破解 (github.com)](https://github.com/77595014/lantern) 没试过。
-- [JuncoJet/unlimited-landeng-for-win: 无限流量灯，你懂的，我不解释 (github.com)](https://github.com/JuncoJet/unlimited-landeng-for-win) 没试过。
-
-概况了解
+**概况了解**
 
 - [vpncn/vpncn.github.io: 2021中国翻墙软件VPN推荐以及避坑指南，对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙VPN梯子下载推荐，稳定好用。](https://github.com/vpncn/vpncn.github.io)。
 - [vpnforchina/vpnforchina.github.io: 2021中国翻墙软件和科学上网推荐指南，最新稳定好用的翻墙VPN推荐，能用的VPN梯子不多了，以及对比VPS自建梯子、SSR机场、V2ray、蓝灯、老王VPN、WireGuard等翻墙软件和科学上网方法。](https://github.com/vpnforchina/vpnforchina.github.io)。
 
-具体了解
+**具体了解**
 
 - [hoochanlon/w3-goto-world: 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库 (github.com)](https://github.com/hoochanlon/w3-goto-world)。
 - [这本书能让你连接互联网 Ⅱ (hoochanlon.github.io)](https://hoochanlon.github.io/fq-book/#/qintro/quickstart)。
+- [awesome-doge/breaking-gfw-book: 整理所有的翻墙方法，持续更新....欢迎PR (github.com)](https://github.com/awesome-doge/breaking-gfw-book)，网页版 [突破防火墙突破防火墙breaking gfw book (awesome-doge.org)](https://blog.awesome-doge.org/breaking-gfw-book/)。这个是技术流，研究 FQ 的可以参考。
 
 ## 法1 使用软件
 
@@ -78,15 +69,31 @@ PC [Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN/relea
 
 安卓 [V2rayNG](https://github.com/2dust/v2rayNG/releases)；[Actinium](https://github.com/V2Ray-Android/Actinium/releases)；[BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)。
 
-### 免费账号网页收集
+### SSR & V2ray 免费账号
 
 [Helpsoftware/fanqiang: SSR & V2ray 等免费账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。 (github.com)](https://github.com/Helpsoftware/fanqiang)。
 
 上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\fanqiang\`。
 
-## 法2 ShadowsockR
+### Trojan
 
-> 我们已退役 SS 、 SSR 协议。 从 2019 年以来，GFW 已能够主动探查，识别，并封锁运行此类服务的 IP。
+- Trojan 可视为 V2Ray 的下一代技术。
+- [Trojan · 科学上网相关知识总结 (crifan.github.io)](https://crifan.github.io/scientific_network_summary/website/trojan/)。
+- [Trojan – V2RaySSR综合网](https://www.v2rayssr.com/tag/trojan)。
+- [新的科学上网方式trojan安装使用记录 (bandwh.com)](https://bandwh.com/kxsw/50.html)。[Trojan – 乐在折腾 (oixxu.com)](https://www.oixxu.com/tag/trojan/)。
+- 长期有效 Trojan 香港节点 [4InternetFreedom/Free-For-Trojan: 每天更新免费翻墙, 科学上网节点 (github.com)](https://github.com/4InternetFreedom/Free-For-Trojan)。
+
+- [突破防火墙 V2Ray、Trojan 传输方式哪个好breaking gfw book (awesome-doge.org)](https://blog.awesome-doge.org/breaking-gfw-book/R-V2Ray-vs-Trojan.html)。
+
+### 蓝灯
+
+可以试试蓝灯破解版：
+
+- [YoulianBoshi/lantern-vpn: PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用 (github.com)](https://github.com/YoulianBoshi/lantern-vpn) 曾经试过（2020），那时可以。
+- [77595014/lantern: 蓝灯破解 (github.com)](https://github.com/77595014/lantern) 没试过。
+- [JuncoJet/unlimited-landeng-for-win: 无限流量灯，你懂的，我不解释 (github.com)](https://github.com/JuncoJet/unlimited-landeng-for-win) 没试过。
+
+## 法2 ShadowsockR
 
 SSR 账号太容易被封，以后就不用了。
 
@@ -210,13 +217,13 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
   > - https://www.deepwebsiteslinks.com/
   > - https://darkwebnews.com/
   >
-  > ## 搜尋引擎
+  > **搜尋引擎**
   >
   > - [DuckDuckGo!](https://3g2upl4pq6kufc4m.onion/?q=&t=h_)
   > - [searx](http://5plvrsgydwy2sgce.onion/)
   > - [not Evil](http://hss3uro2hsxfogfq.onion/)
   >
-  > ## Website Directory
+  > **Website Directory**
   >
   > - [The Hidden Wiki](http://wikitjerrta4qgz4.onion/)
   > - [Tor 官網](http://expyuzz4wqqyqhjn.onion/)
