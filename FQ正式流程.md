@@ -191,6 +191,7 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 需要 VPN，洋葱浏览器 高速访问 暗网。
 
 - TOR 官网：https://www.torproject.org/。
+
 - 中文暗网 http://almvdkg6vrpmkvk4.onion/。
 
 - 招找代理。
@@ -226,8 +227,4 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
   > - [維基解密投稿網站](http://wlupld3ptjvsgwqw.onion/wlupload.en.html)
   > - [deep.dot.web](https://hackmd.io/nWxdL5JiSwS0vTB1ftxs_w)
   >
-  > ## 毒品
-  >
-  > - [絲綢之路](http://silkroad7rn2puhj.onion/)
-  > - [Dream Market](http://6khhxwj7viwe5xjm.onion/)
 
