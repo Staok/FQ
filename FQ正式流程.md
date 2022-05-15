@@ -42,7 +42,7 @@ p.s 不想费事自己弄的，花钱买个省心，但是！！！要选择靠�
 
 ## 法1 使用软件
 
-自由门、无界、SSR 和 V2ray 这四个均有 PC 和 安卓 版本。
+自由门、无界、~~SSR~~ 和 V2ray 这四个均有 PC 和 安卓 版本。
 
 - [Share-SSR-V2ray/tools.md at master · selierlin/Share-SSR-V2ray (github.com)](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)——比较全。
 
@@ -57,11 +57,11 @@ p.s 不想费事自己弄的，花钱买个省心，但是！！！要选择靠�
 
 看视频，慢速下载（100kb/s以内）就用自由门或无界即可。
 
-### SSR 下载
+### ~~SSR 下载~~
 
-PC [Releases · HMBSbige/ShadowsocksR-Windows (github.com)](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)；[shadowsocks/ShadowsocksX-NG: Next Generation of ShadowsocksX (github.com)](https://github.com/shadowsocks/ShadowsocksX-NG)。
+~~PC [Releases · HMBSbige/ShadowsocksR-Windows (github.com)](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)；[shadowsocks/ShadowsocksX-NG: Next Generation of ShadowsocksX (github.com)](https://github.com/shadowsocks/ShadowsocksX-NG)。~~
 
-安卓 [Releases · shadowsocks/shadowsocks-android (github.com)](https://github.com/shadowsocks/shadowsocks-android/releases)。
+~~安卓 [Releases · shadowsocks/shadowsocks-android (github.com)](https://github.com/shadowsocks/shadowsocks-android/releases)。~~
 
 ### V2rayN 下载
 
@@ -93,35 +93,33 @@ PC [Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN/relea
 - [77595014/lantern: 蓝灯破解 (github.com)](https://github.com/77595014/lantern) 没试过。
 - [JuncoJet/unlimited-landeng-for-win: 无限流量灯，你懂的，我不解释 (github.com)](https://github.com/JuncoJet/unlimited-landeng-for-win) 没试过。
 
-## 法2 ShadowsockR
+## ~~法2 ShadowsockR~~
 
-SSR 账号太容易被封，以后就不用了。
+~~SSR 账号太容易被封，以后就不用了。~~
 
-### SSR 使用方法
+### ~~SSR 使用方法~~
 
-[Share-SSR-V2ray/11-windows-setup-guide-cn.md at master · selierlin/Share-SSR-V2ray (github.com)](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/11-windows-setup-guide-cn.md)。
+~~[Share-SSR-V2ray/11-windows-setup-guide-cn.md at master · selierlin/Share-SSR-V2ray (github.com)](https://github.com/selierlin/Share-SSR-V2ray/blob/master/SSR/11-windows-setup-guide-cn.md)。~~
 
-上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\Share-SSR-V2ray\SSR`。
+~~上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\Share-SSR-V2ray\SSR`。~~
 
-### SSR 免费账号
+### ~~SSR 免费账号~~
 
-- https://github.com/UmeLabs/node.umelabs.dev 每天24:00点前更新免费SS/SSR节点。
+- ~~https://github.com/UmeLabs/node.umelabs.dev 每天24:00点前更新免费SS/SSR节点。~~
 
-- https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7。
+- ~~https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7。~~
 
-  上面链接的离线文档路径 `\关于 SS SSR V2Ray 的总介绍\new-pac.wiki\ss免费账号.md`，长期更新。
+  ~~上面链接的离线文档路径 `\关于 SS SSR V2Ray 的总介绍\new-pac.wiki\ss免费账号.md`，长期更新。~~
 
-- https://www.youneed.win/free-ssr（需FQ，可先用自由门等来登上此网页获取ssr链接）。
+- ~~https://www.youneed.win/free-ssr（需FQ，可先用自由门等来登上此网页获取ssr链接）。~~
 
-- https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md。
+- ~~https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md。~~
 
-- [phobal/shadowsocks-free-account: 爬取  上的免费账号并生成 shadowsocks 支持的导入配置文件 (github.com)](https://github.com/phobal/shadowsocks-free-account)，爬取小工具。
+- ~~[phobal/shadowsocks-free-account: 爬取  上的免费账号并生成 shadowsocks 支持的导入配置文件 (github.com)](https://github.com/phobal/shadowsocks-free-account)，爬取小工具。~~
 
-- [freefq/free: 免费ss/ssr/v2ray (github.com)](https://github.com/freefq/free)。
+- ~~[freefq/free: 免费ss/ssr/v2ray (github.com)](https://github.com/freefq/free)。~~
 
 ## 法3 V2ray
-
-除以上情况外，就用 V2ray。
 
 ### V2ray 使用方法
 
@@ -182,7 +180,16 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 
 - [udpsec/awesome-vpn: 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。 (github.com)](https://github.com/udpsec/awesome-vpn)。
 
-  
+
+## 自建机场/自建代理服务器
+
+*p.s 该块内容我不熟悉*
+
+一个`自建代理服务器`的开源项目尚未试验
+
+[RitterHou/stinger: Across the Great Wall, we can reach every corner in the world. (github.com)](https://github.com/RitterHou/stinger)。
+
+------
 
 ## 谷歌镜像 谷歌学术镜像
 
@@ -196,6 +203,13 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 ## Tor
 
 需要 VPN，洋葱浏览器 高速访问 暗网。
+
+登陆教程：
+
+- [最新暗网进入方法！暗网是什么，暗网有什么内容怎么上？dark web怎么进 2021 #科技分享 - YouTube](https://www.youtube.com/watch?v=MqWx8qQ-_vM)。
+- etc.
+
+资料：
 
 - TOR 官网：https://www.torproject.org/。
 
