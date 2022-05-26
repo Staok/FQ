@@ -220,6 +220,8 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
   - 代理IP延迟检测：https://checkerproxy.net/。
   - 或者找中继：https://metrics.torproject.org。
 
+- [tvision08/o2.io: 富强民主文明和谐自由平等公正法治爱国敬业诚信友善 (github.com)](https://github.com/tvision08/o2.io) 里面记录一些 暗网 的网址。
+
 - [Tor – awesome-doge – Freedom is priceless.](https://blog.awesome-doge.org/tor/) 里面记录一些 暗网 的网址。
 
   > https://hackmd.io/XQOPkkIaS7aEmMfq_yPDGA
