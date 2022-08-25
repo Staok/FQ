@@ -23,6 +23,7 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 p.s 不想费事自己弄的，花钱买个省心，但是！！！要选择靠谱的、真实的，有一些是骗钱的。不要再选择 SS/SSR 账号的套餐！不要！
 
 1. [翻墙最快最稳妥 亚洲区最佳 VPN | auVPN (ausososo.space)](https://ausososo.space/zh-CN)。
+1. [Home · XiaoLangCat/XiaoLangCat.github.io Wiki](https://github.com/XiaoLangCat/XiaoLangCat.github.io/wiki)，[SpeedMax Cloud (fanqiangvpnnet.xyz)](https://yyds.fanqiangvpnnet.xyz/#/plan)。
 2. etc.
 
 ## 零 总指南
@@ -69,11 +70,11 @@ PC [Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN/relea
 
 安卓 [V2rayNG](https://github.com/2dust/v2rayNG/releases)；[Actinium](https://github.com/V2Ray-Android/Actinium/releases)；[BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)。
 
-### SSR & V2ray 免费账号
+### ~~SSR & V2ray 免费账号~~
 
-[Helpsoftware/fanqiang: SSR & V2ray 等免费账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。 (github.com)](https://github.com/Helpsoftware/fanqiang)。
+~~[Helpsoftware/fanqiang: SSR & V2ray 等免费账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。 (github.com)](https://github.com/Helpsoftware/fanqiang)。~~
 
-上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\fanqiang\`。
+~~上面链接的离线文档路径`\关于 SS SSR V2Ray 的总介绍\fanqiang\`。~~
 
 ### Trojan
 
@@ -161,6 +162,8 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 
 ## 账号分享+更多链接
 
+*p.s 仅为罗列，不一定好使了现在（2022）*
+
 账号分享
 
 - [免费ss/ssr/vmess分享 | w3-goto-world (hoochanlon.github.io)](https://hoochanlon.github.io/w3-goto-world/科学上网、暗网、零网/免费ss、ssr、vmess分享/)。
@@ -181,13 +184,12 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 - [udpsec/awesome-vpn: 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。 (github.com)](https://github.com/udpsec/awesome-vpn)。
 
 
-## 自建机场/自建代理服务器
+## 自建机场/自建代理服务器/新技术
 
 *p.s 该块内容我不熟悉*
 
-一个`自建代理服务器`的开源项目尚未试验
-
-[RitterHou/stinger: Across the Great Wall, we can reach every corner in the world. (github.com)](https://github.com/RitterHou/stinger)。
+- 一个`自建代理服务器`的开源项目尚未试验 [RitterHou/stinger: Across the Great Wall, we can reach every corner in the world. (github.com)](https://github.com/RitterHou/stinger)。
+- [dowsnature/dowsDNS: 快速翻跃中国防火墙 (github.com)](https://github.com/dowsnature/dowsDNS)。
 
 ------
 
@@ -223,6 +225,8 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 - [tvision08/o2.io: 富强民主文明和谐自由平等公正法治爱国敬业诚信友善 (github.com)](https://github.com/tvision08/o2.io) 里面记录一些 暗网 的网址。
 
 - [Tor – awesome-doge – Freedom is priceless.](https://blog.awesome-doge.org/tor/) 里面记录一些 暗网 的网址。
+
+- [暗网网址大全（2020年08月更新） | 小郎的喵喵's Blog (xiaolangcat.github.io)](https://xiaolangcat.github.io/posts/1988.html)。
 
   > https://hackmd.io/XQOPkkIaS7aEmMfq_yPDGA
   >
