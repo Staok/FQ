@@ -12,6 +12,10 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 - > 我们已退役 SS 、 SSR 协议。 从 2019 年以来，GFW 已能够主动探查，识别，并封锁运行此类服务的 IP。
 
+- **现在基本都是 v2ray 或 Clash**。
+
+- 不要在网上乱下载不明软件，容易下病毒被获取本地信息，[收到一个勒索邮件，真的慌了一阵儿 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589499046)。
+
 ## GFW 和 FQ 原理
 
 [防火墙/GFW是什么？为什么会有墙？墙的真正用意是什么？你为什么要搞清楚翻墙的原理？【硬核翻墙系列】第一期 - YouTube](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)。这是一个系列视频，讲的比较客观和好懂，FQ 作为 现代大陆一部分网民感兴趣和掌握的一个常识、可以拥有的技能，应该 首先 去看看这个讲解 原理和技术的视频。
@@ -22,9 +26,25 @@ FQ 为 “翻墙” 全拼。FQ 仅为新鲜和学习罢了。以下的链接均
 
 p.s 不想费事自己弄的，花钱买个省心，但是！！！要选择靠谱的、真实的，有一些是骗钱的。不要再选择 SS/SSR 账号的套餐！不要！
 
-1. [翻墙最快最稳妥 亚洲区最佳 VPN | auVPN (ausososo.space)](https://ausososo.space/zh-CN)。
-1. [Home · XiaoLangCat/XiaoLangCat.github.io Wiki](https://github.com/XiaoLangCat/XiaoLangCat.github.io/wiki)，[SpeedMax Cloud (fanqiangvpnnet.xyz)](https://yyds.fanqiangvpnnet.xyz/#/plan)。
-2. etc.
+1. [SpeedMax Cloud (fanqiangvpnnet.xyz)](https://dev.fanqiangvpnnet.xyz)。我目前在用的。
+1. [翻墙最快最稳妥 亚洲区最佳 VPN | auVPN (ausososo.space)](https://ausososo.space/zh-CN)。没试过。
+3. [（2022/12/22更新）2022最新翻墙免费节点，支持V2Ray和Clash客户端，有143个节点，最高可看4K，免费电脑VPN，支持Windows电脑/安卓/iPhone小火箭/MacOS - YouTube](https://www.youtube.com/watch?v=Utd_KMcvVlQ)：
+   1. ①【飞鸟云机场】高性价比不限速，流量计费不限到期时间，10元200G流量，免费试用，无需优惠码，季付以上套餐流量8折优惠：[https://feiniaoyun.xyz/#/register?code=5VVPWNw ](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbGxacFZoQklmdjh2cjdMS2lya0puX2RVazBpd3xBQ3Jtc0tra0NnbFVmT1B0bGFDeEZRUk52WDhUQ0tOeUpGYXVLeU9XVWIwN3lLWndNckJRSkpYUDI4aE9kaDZyeWpGR29jWVRCRkpSd2hXemJpcFR5bWh6TlZXUFM1NmQ2Wl9jT0pZY3l6bVZmczg0eEFKaXA5aw&q=https%3A%2F%2Ffeiniaoyun.xyz%2F%23%2Fregister%3Fcode%3D5VVPWNw&stzid=Ugxs-Uyx2j8uCjeDBhR4AaABAg) 
+   2. ②【AZ云机场】流量计费不限到期时间，三网优化线路，高速稳定不被墙，免费试用1G流量，官网：[https://azyun.top/#/register?code=Rr6JbL7n ](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa05rcm5tdHB5VTFjY05wcnN2b1BJZzljZ0l1UXxBQ3Jtc0tsZ2pVeC1ldF9reGNnTzRRUFNCbWdEbHd4MHNUQmo3SjJBYlFIQzZYV1pKdDBiRnVnVTJRa3hHUEFCZHNwYWxycG5xWV91eEFmVjFyeXI0bExlaHNnTWRyR3ViVlVjLTVyMElsUl96ampobG55WDZwSQ&q=https%3A%2F%2Fazyun.top%2F%23%2Fregister%3Fcode%3DRr6JbL7n&stzid=Ugxs-Uyx2j8uCjeDBhR4AaABAg) 
+   3. ③【FastFly机场】最低月付7元90G流量，1000Mbps峰值速率，全高速中转节点，流媒体解锁，85折优惠码：PJZYYYDS，官网：[https://bit.ly/3heTLKj ](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVdEOURyTm9tMEFVX01EeEF2REl1QzJIUzRfQXxBQ3Jtc0tuSU43MURZWG55cy15XzFxQW5YMXJzWGN5LW5Lc0NOWDlZSmVWbjRjaWZVRmhNa0NIUlFSYVdVSmpRQlI0S09hZDRmQk9NMDdLOWZ2aWVicHlETXFaLWNUZjloRlM4SW9yVkNQTjYyT3Fkdkt4Z05HWQ&q=https%3A%2F%2Fbit.ly%2F3heTLKj&stzid=Ugxs-Uyx2j8uCjeDBhR4AaABAg) 
+   4. ④【灵魂云机场】优惠码YEAR-10OFF，专线接入，IEPL高速路线，全中转节点，跑满宽带，4K秒开，高速稳定，官网：[https://bit.ly/3FrBRKo ](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbEpVQ1BCUk5UQTVWWFVnRDdMZUp0WjB2Zkp5Z3xBQ3Jtc0trZlN0bEJNVmtGNzNNQ3Z5NDIwMTZGclQ5WE12VmRlSDJ3b2xEamxZNEVPSDd6N2tQUTNfc1pjc19UXy1uMjhaRDdJX29sSndLR3lsTFhqeXZYTndJRjdtMEphdGdMcnhiUWpISjVTdVVnTDFyTmViSQ&q=https%3A%2F%2Fbit.ly%2F3FrBRKo&stzid=Ugxs-Uyx2j8uCjeDBhR4AaABAg)
+
+4. etc.
+
+
+
+节点转换成 Clash 订阅链接：
+
+- https://sub-web.qingsay.com/
+- https://bianyuan.xyz/
+- https://acl4ssr-sub.github.io/
+- https://sub.ccsub.site/
+- https://api.nameless13.com/ 
 
 ## 零 总指南
 
@@ -122,6 +142,8 @@ PC [Releases · 2dust/v2rayN (github.com)](https://github.com/2dust/v2rayN/relea
 
 ## 法3 V2ray
 
+p.s 本人目前用 Clash，没用过 v2ray，以下资料仅是收集整理。
+
 ### V2ray 使用方法
 
 [Share-SSR-V2ray/V2rayN_Windows.md at master · selierlin/Share-SSR-V2ray (github.com)](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2rayN_Windows.md)。
@@ -214,13 +236,50 @@ https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A
 资料：
 
 - TOR 官网：https://www.torproject.org/。
+- 官方手册： https://support.torproject.org/zh-CN/。
+- 一些注意事项：https://support.torproject.org/zh-CN/#faq_staying-anonymous
+  	如：只用 Tor Browser 浏览网页，不填写自己信息的表单，不使用 BT，
+  	       不安装浏览器插件，使用https版的网页（ Tor 浏览器内置 HTTPS-Only Mode）。
+- 下面会给出一些 暗网地址，但有些已经不能用了，暗网地址是随时变化的，应该找一些 暗网搜索引擎 或者 暗网地址集合wiki 来展开，或者 github 搜索 2022年最全暗网导航 之类的关键词 可以找到相关仓库。
+
+
+
+汇总
+https://thehiddenwiki.org/
+http://torwikiehdh663hyidiqr57kss5emjgzkm66rdpue664dtolhwg7ayyd.onion
+
+Phobos DarkNet Search 暗网搜索引擎（搜索结果均为暗网网站），结果按标题、网址、网站文字主要内容分块展示。
+http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion
+
+haystak: the darknet search engine 暗网搜索引擎，提供暗网网站查询（查询结果分标题、网址、主要文本内容多块展示）和Premium服务。
+http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion
+
+Onion link list 暗网地址列表分享
+http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion
+
+社工库  需登录，以QQ,账号ID,密码,邮箱账号,手机号,电话,身份证,姓名中一个查询其他或更多相关信息。
+http://kgaalsjzcz3o2ydu4tvdwcwxyabx26sx2tbdbtmqmc6tamyptpdhk5id.onion
+
+Invidious 视频分享网站，暗网“Youtube”。有暗夜模式和搜索功能。
+http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion
+
+暗网版 gelbooru，但都是 furry
+http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/
+
+The Secret Story Archive 秘密故事档案-提供许多故事集
+http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion
+
+
+
+下面的是旧资料。
+
+- ~~招找代理。~~
+
+  - ~~代理：http://free-proxy.cz/en/。~~
+  - ~~代理IP延迟检测：https://checkerproxy.net/。~~
+  - ~~或者找中继：https://metrics.torproject.org。~~
 
 - 中文暗网 http://almvdkg6vrpmkvk4.onion/。
-
-- 招找代理。
-  - 代理：http://free-proxy.cz/en/。
-  - 代理IP延迟检测：https://checkerproxy.net/。
-  - 或者找中继：https://metrics.torproject.org。
 
 - [tvision08/o2.io: 富强民主文明和谐自由平等公正法治爱国敬业诚信友善 (github.com)](https://github.com/tvision08/o2.io) 里面记录一些 暗网 的网址。
 
